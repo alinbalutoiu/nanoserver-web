@@ -22,3 +22,9 @@ docker build . -f 1709/Dockerfile -t nanoserver-web:1709
 ```
 docker build . -f 1803/Dockerfile -t nanoserver-web:1803
 ```
+
+### For Windows Server 2019 version 1809
+
+```
+docker build . -f 1809/Dockerfile -t nanoserver-web:1809
+```
